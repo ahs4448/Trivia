@@ -1,0 +1,121 @@
+body{
+	background:url("609.jpg");
+
+}
+
+#wrong{
+    margin: 10px;
+	margin-right: 940px;
+	margin-left: 50px;
+	padding: 35px;
+	padding-right: 100px;
+	background-color: grey;
+	opacity: 0.8;
+}
+
+#right{
+	margin: 10px;
+	margin-right: 940px;
+	margin-left: 50px;
+	padding: 35px;
+	padding-right: 100px;
+	background-color: grey;
+	opacity: 0.8;
+}
+
+
+
+#ScoreCard{
+    margin: 10px;
+	margin-right: 940px;
+	margin-left: 50px;
+	padding: 35px;
+	padding-right: 100px;
+	background-color: grey;
+	opacity: 0.8;
+}
+
+
+
+
+.QList{
+	opacity: 0.8;
+}
+
+
+
+h1{
+	text-align: center;
+	color: lime;
+	background-color: teal;
+	font-family: "Righteous";
+	font-size: 50px;
+}
+
+
+h2{
+	color: white;
+	margin-left: 80px;
+}
+
+h3{
+	color:lime;
+	text-align: center;
+}
+
+.QList{
+  background-color: grey;
+  padding:40px;
+  padding-bottom: 310px;
+  margin-right: 50px;
+  margin-left:  50px;
+}
+
+
+input{
+	margin: 10px;
+	margin-left:26px;
+	word-spacing: 12px;
+
+}
+
+#firstQ{
+margin:8px;
+border: 2px solid white;
+border-radius: 20px;
+}
+
+#secondQ{
+	margin:8px;
+	border: 2px solid white;
+	border-radius: 20px;
+
+}
+
+#thirdQ {
+margin:8px;
+border: 2px solid  white;
+border-radius: 20px;
+}
+
+#fourthQ {
+margin:8px;
+border: 2px solid  white;
+border-radius: 20px;
+}
+
+#fifthQ{
+	margin:8px;
+border: 2px solid  white;
+border-radius: 20px;
+}
+
+#sixthQ{
+	margin:8px;
+border: 2px solid  white;
+border-radius: 20px;
+}
+
+
+
+
