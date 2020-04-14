@@ -13,16 +13,7 @@
 
 $(document).ready(function(){
 
-
-
-
-
-
-
-
 var timer = 60;
-
-
 var setIntervalId = setInterval(function()
 { 
 	(timer--);
@@ -48,12 +39,10 @@ var wrongs = 0;
 
 	$("input[value='correct']").click(function(){
 		
-		
-		   rights+=1;
+		rights+=1;
 
-			$("#right").html(rights)
+  		$("#right").html(rights)
 			console.log("correct");
-
 		 })
 
 	$("input[value='wrong']").click(function(){
@@ -63,50 +52,4 @@ $("#wrong").html(wrongs)
 console.log("wrongs")
 })
 
-
 	});
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
